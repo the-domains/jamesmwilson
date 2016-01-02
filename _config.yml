@@ -1,0 +1,28 @@
+name: JamesMWilson
+favicon: null
+layout_spectrum: 0.8297400278970599
+typography_spectrum: 0.7836861454416066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3455900060944259
+  lightness: 0.021131008164957166
+  saturation: 0.9885715832933784
+  rhythmicContrast: 0.16681044804863632
+purpose: []
